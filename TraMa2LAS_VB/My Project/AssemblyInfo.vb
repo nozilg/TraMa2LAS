@@ -10,9 +10,9 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("TraMa2LAS_VB")>
 <Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("HP")>
+<Assembly: AssemblyCompany("Cizeta Automazione")>
 <Assembly: AssemblyProduct("TraMa2LAS_VB")>
-<Assembly: AssemblyCopyright("Copyright © HP 2018")>
+<Assembly: AssemblyCopyright("Copyright © Cizeta Automazione 2018")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
@@ -31,5 +31,5 @@ Imports System.Runtime.InteropServices
 ' usando l'asterisco '*' come illustrato di seguito:
 ' <Assembly: AssemblyVersion("1.0.*")> 
 
-<Assembly: AssemblyVersion("1.0.0.0")>
-<Assembly: AssemblyFileVersion("1.0.0.0")>
+<Assembly: AssemblyVersion("1.1.0.0")>
+<Assembly: AssemblyFileVersion("1.1.0.0")>
