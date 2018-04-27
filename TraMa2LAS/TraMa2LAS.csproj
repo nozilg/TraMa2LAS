@@ -41,7 +41,7 @@
   <ItemGroup>
     <Reference Include="Cizeta.TraMaAuth, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\TraMaAuth\TraMaAuth\bin\Debug\Cizeta.TraMaAuth.dll</HintPath>
+      <HintPath>..\..\TraMaAuth\TraMaAuth\bin\Release\Cizeta.TraMaAuth.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
